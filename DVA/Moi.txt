@@ -1,2 +1,14 @@
 Ngay thứ nhất
 DVA
+
+    I.Tạo 1 folder
+
+    II.liên kết vs github bằng lệnh : git remote add origin + link git
+
+    III.Tạo file : touch + tên file
+
+    IV.Đẩy lên nhánh git : git push -u origin + tên nhánh
+
+    V.Đẩy thông tin lên git : git add + tên file
+                              git commit -m + tên file
+                              git push origin + tên nhánh.
